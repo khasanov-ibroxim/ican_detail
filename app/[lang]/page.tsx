@@ -2,7 +2,7 @@ import React from 'react';
 
 function Page(props) {
     return (
-        <div>asdasd</div>
+        <div className={"text-2xl"}></div>
     );
 }
 
