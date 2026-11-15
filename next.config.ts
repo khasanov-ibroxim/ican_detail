@@ -1,20 +1,20 @@
-import type { NextConfig } from "next";
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+    // ✅ STATIC EXPORT
+    output: 'export',
 
-const nextConfig: NextConfig = {
-  /* config options here */
-  experimental: {
-    agentFeedback: true,
-  },
-  cacheComponents: true,
-  partialPrefetching: true,
-  turbopack: {
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
-      },
+    // ✅ Images configuration - unoptimized for static export
+    images: {
+        unoptimized: true,
     },
-  },
+
+    // ✅ Trailing slash
+    trailingSlash: true,
+
+    // ✅ Production optimizations
+    compress: true,
+    poweredByHeader: false,
+    reactStrictMode: true,
 };
 
-export default nextConfig;
+module.exports = nextConfig;
