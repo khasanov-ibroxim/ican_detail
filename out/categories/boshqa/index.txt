@@ -1,22 +1,31 @@
 1:"$Sreact.fragment"
-2:I[1805,["619","static/chunks/619-ba102abea3e3d0e4.js","869","static/chunks/869-2cb32d37cb15b7f4.js","177","static/chunks/app/layout-156150b0868b878a.js"],"StoreProvider"]
-3:I[7101,["619","static/chunks/619-ba102abea3e3d0e4.js","869","static/chunks/869-2cb32d37cb15b7f4.js","177","static/chunks/app/layout-156150b0868b878a.js"],"StoreHeader"]
-4:I[9766,[],""]
-5:I[8924,[],""]
-6:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","345","static/chunks/app/not-found-f7502defdba75282.js"],""]
-7:I[7101,["619","static/chunks/619-ba102abea3e3d0e4.js","869","static/chunks/869-2cb32d37cb15b7f4.js","177","static/chunks/app/layout-156150b0868b878a.js"],"StoreFooter"]
-9:I[4431,[],"OutletBoundary"]
-b:I[5278,[],"AsyncMetadataOutlet"]
-d:I[4431,[],"ViewportBoundary"]
-f:I[4431,[],"MetadataBoundary"]
+2:"/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/_next/static/chunks/2ftxsib2c9d5i.js"
+4:I[84564,["$2","$3"],"StoreProvider"]
+5:I[38404,["$2","$3"],"StoreHeader"]
+6:I[39756,["$2","$3"],"default"]
+7:I[37457,["$2","$3"],"default"]
+8:I[22016,["$2","$3"],""]
+9:I[38404,["$2","$3"],"StoreFooter"]
+f:I[97367,["$2","$3"],"OutletBoundary"]
 10:"$Sreact.suspense"
-12:I[7150,[],""]
-:HL["/_next/static/css/468b7d500578ab39.css","style"]
-0:{"P":null,"b":"azWrXhSyu1hoXStdOe0Vy","p":"","c":["","categories","boshqa",""],"i":false,"f":[[["",{"children":["categories",{"children":[["category","boshqa","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/468b7d500578ab39.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"uz","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"}]]}],["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"flex min-h-[60vh] items-center justify-center px-4 text-center","children":["$","div",null,{"children":[["$","h1",null,{"className":"text-7xl font-bold","children":"404"}],["$","h2",null,{"className":"mt-4 text-xl font-semibold","children":"Sahifa topilmadi"}],["$","$L6",null,{"href":"/","className":"mt-6 inline-flex h-9 items-center rounded-md bg-hero-button px-4 text-sm font-medium text-hero-button-ink","children":"Bosh sahifaga qaytish"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}]]}]}]]}]]}],{"children":["categories",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["category","boshqa","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],null],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
-13:I[36,["619","static/chunks/619-ba102abea3e3d0e4.js","53","static/chunks/53-1ffd8db4b18e953e.js","968","static/chunks/app/categories/%5Bcategory%5D/page-5b42bd8bf436166b.js"],"CatalogView"]
-8:[["$","$L13","boshqa",{"category":"boshqa"}]]
-e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-a:null
-14:I[622,[],"IconMark"]
-c:{"metadata":[["$","title","0",{"children":"Boshqa mahsulotlar | iCan Detail"}],["$","meta","1",{"name":"description","content":"Detailing uchun qo‘shimcha vositalar"}],["$","meta","2",{"property":"og:title","content":"Boshqa mahsulotlar | iCan Detail"}],["$","meta","3",{"property":"og:description","content":"Detailing uchun qo‘shimcha vositalar"}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Boshqa mahsulotlar | iCan Detail"}],["$","meta","7",{"name":"twitter:description","content":"Detailing uchun qo‘shimcha vositalar"}],["$","link","8",{"rel":"icon","href":"/favicon.svg"}],["$","$L14","9",{}]],"error":null,"digest":"$undefined"}
-11:"$c:metadata"
+12:"ViewportBoundary"
+13:I[97367,["$2","$3"],"$12"]
+15:"MetadataBoundary"
+16:I[97367,["$2","$3"],"$15"]
+18:I[68027,["$2","$3"],"default",1]
+:HL["/_next/static/chunks/3_dla3cl1jvkt.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap","style"]
+b:X
+d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Le",[["$","script","script-0",{"src":"/_next/static/chunks/2svad9_ocvr5a.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":false,"v":null}}]]
+c:[["children",{"s":{"n":"category","t":"d","k":"boshqa","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qd"}]]
+a:[["children",{"s":"categories","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qc"}]]
+0:{"P":null,"c":["","categories","boshqa",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3_dla3cl1jvkt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2ftxsib2c9d5i.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"uz","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"}]]}],["$","body",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"flex min-h-[60vh] items-center justify-center px-4 text-center","children":["$","div",null,{"children":[["$","h1",null,{"className":"text-7xl font-bold","children":"404"}],["$","h2",null,{"className":"mt-4 text-xl font-semibold","children":"Sahifa topilmadi"}],["$","$L8",null,{"href":"/","className":"mt-6 inline-flex h-9 items-center rounded-md bg-hero-button px-4 text-sm font-medium text-hero-button-ink","children":"Bosh sahifaga qaytish"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}]]}]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3_dla3cl1jvkt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"cMBaq_kAXDBxGlT0DO59O"}
+19:"/_next/static/chunks/2svad9_ocvr5a.js"
+1a:I[95772,["$2","$3","$19"],"CatalogView"]
+b:C
+e:[["$","$L1a","boshqa",{"category":"boshqa"}]]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["$2","$3"],"IconMark"]
+11:null
+17:[["$","title","0",{"children":"Boshqa mahsulotlar | iCan Detail"}],["$","meta","1",{"name":"description","content":"Detailing uchun qo‘shimcha vositalar"}],["$","meta","2",{"property":"og:title","content":"Boshqa mahsulotlar | iCan Detail"}],["$","meta","3",{"property":"og:description","content":"Detailing uchun qo‘shimcha vositalar"}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Boshqa mahsulotlar | iCan Detail"}],["$","meta","7",{"name":"twitter:description","content":"Detailing uchun qo‘shimcha vositalar"}],["$","link","8",{"rel":"icon","href":"/favicon.svg"}],["$","$L1b","9",{}]]
