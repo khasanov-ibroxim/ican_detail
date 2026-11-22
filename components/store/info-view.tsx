@@ -4,7 +4,7 @@ import {ArrowRight, ShieldCheck, Gem, Headphones, Truck} from 'lucide-react';
 import {Button} from '@/components/ui/button';
 import {useStore} from './store-context';
 
-const studio = '/images/detail-studio.jpg';
+const studio = '/images/detail-studio.png';
 
 export function InfoView({kind}: { kind: 'about' | 'delivery' | 'faq' | 'contact' | 'privacy' }) {
     const {t} = useStore();

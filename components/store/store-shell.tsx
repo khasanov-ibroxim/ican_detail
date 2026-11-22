@@ -70,7 +70,7 @@ export function StoreFooter() {
                                                                                                 size={12}/></Link></div>
             </div>
             <div className="footer-bottom">
-                <span>© {new Date().getFullYear()} iCan Detail. {t('Barcha huquqlar himoyalangan.', 'Все права защищены.')}</span><span>Automotive care. Redefined.</span>
+                <span>© {new Date().getFullYear()} iCan Detail. {t('Barcha huquqlar himoyalangan.', 'Все права защищены.')}</span><span></span>
             </div>
         </div>
     </footer>;

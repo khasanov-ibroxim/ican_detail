@@ -8,7 +8,7 @@ import {ProductCard} from '@/components/store/product-card';
 import {categories, brands, brandSlug, products} from '@/lib/store/data';
 
 const hero = '/images/detail-hero.jpg';
-const studio = '/images/detail-studio.jpg';
+const studio = '/images/detail-studio.png';
 export default function Index() {
     const {t, local} = useStore();
     const [tab, setTab] = useState('');
@@ -63,7 +63,7 @@ export default function Index() {
                                                                                    onClick={() => setSlide(i)}/>)}<span
                     className="ml-3 text-[10px] text-muted-foreground">0{slide + 1} / 03</span></div>
             </div>
-            <div className="hero-caption">Care beyond the ordinary</div>
+
         </section>
         <div className="home-body">
             <div className="shell benefits">{benefits.map(b => <div className="benefit" key={b.title}>
